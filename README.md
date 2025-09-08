@@ -6,7 +6,7 @@
 * `~/.config` mean `/home/username(your name)/.(hidden folder or file) config/…`
 * Enable by removing `#` & Disable by adding `#` on front of the line/command.
 * If you add `Persistent=true`, you should disable `OnStartupSec=15` with a `#` on front like below.
-* Further setting options for [Freedesktop.org](https://www.freedesktop.org/software/systemd/man/latest/systemd.time.html#Parsing%20Time%20Spans)
+* Further setting options for `systemd.time` on [Freedesktop.org](https://www.freedesktop.org/software/systemd/man/latest/systemd.time.html#Parsing%20Time%20Spans).
 
 ### 2. How to:
 
